@@ -1,0 +1,6 @@
+/dist/*
+/html/*
+.local
+/node_modules/**
+**/*.svgpnpm in
+/public/*
